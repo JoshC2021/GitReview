@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\githubReview\bin\Debug\netcoreapp3.1\githubReview.exe
+C:\Users\Josh\source\repos\githubReview\bin\Debug\netcoreapp3.1\githubReview.deps.json
+C:\Users\Josh\source\repos\githubReview\bin\Debug\netcoreapp3.1\githubReview.runtimeconfig.json
+C:\Users\Josh\source\repos\githubReview\bin\Debug\netcoreapp3.1\githubReview.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\githubReview\bin\Debug\netcoreapp3.1\githubReview.dll
+C:\Users\Josh\source\repos\githubReview\bin\Debug\netcoreapp3.1\githubReview.pdb
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.AssemblyInfo.cs
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.dll
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.pdb
+C:\Users\Josh\source\repos\githubReview\obj\Debug\netcoreapp3.1\githubReview.genruntimeconfig.cache
